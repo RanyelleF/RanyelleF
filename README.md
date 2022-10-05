@@ -22,6 +22,7 @@
   ##
  
 <div> 
+  ![snake gif](https://github.com/RanyelleF/RanyelleF/blob/output/github-contribution-grid-snake.svg)
 
   
  
